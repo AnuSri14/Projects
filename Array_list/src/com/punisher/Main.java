@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         boolean quit = false;
         int choice;
-
+        // used to choose option in console.ś 
         printInstructions();
         while (!quit) {
             System.out.println("Enter your choice: ");
